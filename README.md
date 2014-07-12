@@ -1,4 +1,4 @@
 FODBOTI
 =======
 
-Repo for FODBOT I development
+Repository for FODBOT I development
